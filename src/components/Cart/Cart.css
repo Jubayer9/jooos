@@ -1,0 +1,16 @@
+.cart{
+    background: rgba(255, 153, 0, 0.368);
+    padding: 25px;
+    box-shadow: 0px 0px 30px rgb(255, 153, 0, 0.368);
+    position: sticky;
+    top: 0;
+}
+.summary{
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+    
+}
+.cart p{
+    font-size: 17px;
+}
