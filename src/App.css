@@ -1,5 +1,6 @@
 #root {
   min-width: 100%;
+  
 }
 
 .logo {
@@ -32,6 +33,7 @@
 
 .card {
   padding: 2em;
+
 }
 
 .read-the-docs {
