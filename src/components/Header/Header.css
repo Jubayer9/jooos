@@ -17,3 +17,19 @@
 nav.header a:hover {
     color: orange;
 }
+.text-while{
+    
+    color:white;
+    padding-left: 10px;
+}
+.Welcome{
+    color: #f59862;
+    font-size: large;
+    padding-right: 5px;
+    margin: 2.5px;
+    border-right:3px solid red  ;
+}
+.text-while button{
+    background-color: #f98b3c;
+    margin-left: 10px;
+}
